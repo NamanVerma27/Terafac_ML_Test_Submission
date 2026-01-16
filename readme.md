@@ -107,8 +107,9 @@ Run `pip install -r requirements.txt` locally or rely on Colab’s environment (
 ---
 
 ## Contact / questions
-If anything in the notebook is unclear or you want me to re-run an experiment with a different seed or longer schedule, contact me at: **060naman.com** (replace with your preferred contact).
+If anything in the notebook is unclear or you want me to re-run an experiment with a different seed or longer schedule, contact me at: **060naman@gmail.com** (replace with your preferred contact).
 
 ---
 
 Thank you for reviewing this submission. The goal of Levels 1–3 was to show both engineering rigor and analysis — I’ve tried to make the notebook reproducible and the report easy to follow.
+
